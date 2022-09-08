@@ -1,0 +1,24 @@
+[[package]]
+name = "more-itertools"
+version = "8.14.0"
+description = "More routines for operating on iterables, beyond itertools"
+category = "main"
+optional = false
+python-versions = ">=3.5"
+
+[[package]]
+name = "numpy"
+version = "1.23.2"
+description = "NumPy is the fundamental package for array computing with Python."
+category = "main"
+optional = false
+python-versions = ">=3.8"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "cfc38d92e1f2422bb470ddb8528315cb950066517bd80f2ee2b05eccd9da2807"
+
+[metadata.files]
+more-itertools = []
+numpy = []
